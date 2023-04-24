@@ -1,0 +1,13 @@
+G:\My Drive\PPP\ZASG II\ZASG II\bin\Debug\ZASG II.exe.config
+G:\My Drive\PPP\ZASG II\ZASG II\bin\Debug\ZASG II.exe
+G:\My Drive\PPP\ZASG II\ZASG II\bin\Debug\ZASG II.pdb
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG II.csproj.AssemblyReference.cache
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG II.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG_II.Properties.Resources.resources
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG II.csproj.GenerateResource.cache
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG II.csproj.CoreCompileInputs.cache
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG II.exe
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG II.pdb
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG_II.MainMenu.resources
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG_II.PlayMenu.resources
+G:\My Drive\PPP\ZASG II\ZASG II\obj\Debug\ZASG_II.NewGame.resources
